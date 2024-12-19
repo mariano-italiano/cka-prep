@@ -1,6 +1,6 @@
 # How I passed CKA Exam
 
-<img src="cka-cert.PNG" width="707" height="594" />
+<img src="k8s-certs.png"  />
 
 ## About the CKA EXAM
 
